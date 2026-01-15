@@ -139,5 +139,5 @@ Campos utilizados incluem (exemplos):
 
 
 
-## Estrutura Recomendada do Repositório
+
 
